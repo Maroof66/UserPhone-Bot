@@ -15,7 +15,7 @@ To get started with the Userphone Bot, you'll need to set up a few things:
 
 Create a `.env` file in the root directory of your project. This file will hold your bot's token and client ID. Here's the template:
 ```
-TOKEN=your_bot_token_here \n
+TOKEN=your_bot_token_here
 CLIENT_ID=your_client_id_here
 ```
 
